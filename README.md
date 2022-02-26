@@ -4,7 +4,7 @@ Tom Heaton, Gonzal Pestana
 
 ## Project Structure
 
-| Codebase | Description     |
-|----------|-----------------|
-| salsa    | Nextjs frontend |
-| nacho    | Nodejs backend  |
+| Codebase                 | Description     |
+|--------------------------|-----------------|
+| [salsa](./salsa "salsa") | Nextjs frontend |
+| [nacho](./nacho "nacho") | Nodejs backend  |
